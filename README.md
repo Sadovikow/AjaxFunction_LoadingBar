@@ -1,1 +1,3 @@
-# AjaxFunction_LoadingBar
+# Отправка формы через AJAX с LoadingBar
+
+  > Мы используем два специальных события <b>beforeSend</b> и <b>complete</b> для отображения начала и завершения загрузки
