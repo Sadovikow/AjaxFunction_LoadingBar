@@ -1,3 +1,4 @@
+	/* Функция AJAX с LoadingBar*/
 	function feedbackMobile(){
 		var name = $('#feedback-author').val();
 		var phone = $('#feedback-phone').val();
